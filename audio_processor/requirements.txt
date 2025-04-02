@@ -1,0 +1,6 @@
+pyaudio
+SpeechRecognition
+psycopg2-binary
+numpy
+torch
+sentence-transformers

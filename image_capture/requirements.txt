@@ -1,0 +1,7 @@
+opencv-python
+minio
+psycopg2-binary
+numpy
+torch
+torchvision
+transformers

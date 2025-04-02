@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+minio
+numpy
+torch
+transformers
+sentence-transformers
